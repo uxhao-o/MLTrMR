@@ -6,4 +6,4 @@ We will publish the code and dataset of MLTrMR in this repository when our paper
 
 # Dental Fluorosis Image Dataset (DFID)
 
-![DFID](./image/dfid.png)
+![DFID](image/dfid.png)
