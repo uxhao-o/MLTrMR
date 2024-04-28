@@ -8,7 +8,7 @@ Yun Wu<sup>1,2,\*</sup>, [Hao Xu](https://github.com/uxhao-o)<sup>1,2,\*, :email
 <sup>2</sup>  College of Computer Science and Technology, Guizhou University <br>
 <sup>3</sup> School of Artificial lntelligence, Nanjing University of Information Science and Technology
 
-(\*) Co-first authors, ( :email: ) corresponding author.
+( \* ) Co-first authors, ( :email: ) corresponding author.
 
 ArXiv Preprint ([arXiv 2404.13564](https://arxiv.org/abs/2404.13564))
 </div>
