@@ -14,7 +14,7 @@ ArXiv Preprint ([arXiv 2404.13564](https://arxiv.org/abs/2404.13564))
 </div>
 
 # Notes
-- This study has been submitted to `IEEE Transactions on Instrumentation and Measurement` (TIM) for review.
+- This study has been submitted to `Neural Networks` for review.
 - We will publish the code and dataset of MLTrMR in this repository when our paper is accepted.
 
 # Abstract
