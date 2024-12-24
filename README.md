@@ -2,7 +2,7 @@
 <h1>MLTrMR</h1>
 <h3>Masked Latent Transformer with the Random Masking Ratio to Advance the Diagnosis of Dental Fluorosis</h3>
 
-[Hao Xu](https://github.com/uxhao-o)<sup>1,2</sup>, Yun Wu<sup>1,2,:email:</sup>, Junpeng Wu<sup>3</sup>, Rui Xie<sup>3</sup>, Maohua Gu<sup>1,2</sup>, Rongpin Wang<sup>4</sup>
+[Hao Xu](https://github.com/uxhao-o)<sup>1,2</sup>, Yun Wu<sup>1,2, :email:</sup>, Junpeng Wu<sup>3</sup>, Rui Xie<sup>3</sup>, Maohua Gu<sup>1,2</sup>, Rongpin Wang<sup>4</sup>
 
 <sup>1</sup>  State Key Laboratory of Public Big Data, Guizhou University <br>
 <sup>2</sup>  College of Computer Science and Technology, Guizhou University <br>
